@@ -11,4 +11,4 @@ Database Training: The user can choose the database training option, which opens
 Technologies Used:
 OpenCV: Employed for face detection and recognition.
 Python: Programming language used for developing the project.
-This project aims to provide a reliable and efficient face recognition system for identification purposes. It has various potential applications, such as access control, security systems, and personalized greetings.
+This project aims to provide an efficient and accurate facial recognition system for identification purposes, offering functionalities such as face capture, face recognition, and database training. By leveraging facial recognition technology, this system enhances security and identification processes.
