@@ -13,4 +13,4 @@ Key Features:
 Technologies Used:
 OpenCV: Employed for face detection and recognition.
 Python: Programming language used for developing the project.
-This project aims to provide an efficient and accurate facial recognition system for identification purposes, offering functionalities such as face capture, face recognition, and database training. By leveraging facial recognition technology, this system enhances security and identification processes.
+This project aims to provide an efficient and accurate facial recognition system for identification purposes, offering functionalities such as face capture, face recognition, and database training. By leveraging facial recognition technology, this system enhances security and identification processes
